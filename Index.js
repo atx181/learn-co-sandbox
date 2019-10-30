@@ -2,6 +2,4 @@ Function sayHelloToIsabel() {
   console.log("Hello, Isabel!")
 }
 
-Function sayHelloToSofia() {
-  console.log("Hello, Sofia!")
-}
+Function sayHelloToSofia() {console.log("Hello, Sofia!")}
